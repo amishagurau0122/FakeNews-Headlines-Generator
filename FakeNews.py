@@ -2,7 +2,7 @@ import random
 
 subjects=["Sharukh Khan ","A Fish ","Messi ","Balen shah ","A group of monkey ","Isospeed "]
 actions=["launch ","cancels ","dance with ", "eats ", "declear war on ","Play Scissor paper rock "]
-place_or_things=["a plate of samosa","in traffic","at meet-Galla","Biryani","Railway station","at FIFA world cup"]
+place_or_things=["a plate of samosa","in traffic","at meet-Galla","Biryani"," at Railway station","at FIFA world cup"]
 
 while True:
     subject=random.choice(subjects)
