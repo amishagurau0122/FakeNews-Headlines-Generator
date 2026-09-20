@@ -20,5 +20,4 @@ print("\nThanks for using Fake News Headline Generator...")
 print("goodBye.....")
 print("visit again.....")
 
-
-#store this in a txt file.
+#make features = store this into a file 
